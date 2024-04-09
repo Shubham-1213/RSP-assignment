@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "dot": "green",
+        "title": "On time",
+        "info": [
+            {
+                "name" : "Completed Iterations",
+                "value": "7"
+            },
+            {
+                "name" : "Total Iterations",
+                "value": "9"
+            },
+            {
+                "name" : "% Iterations Done",
+                "value": "78%"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "dot": "green",
+        "title": "On Scope",
+        "info": [
+            {
+                "name" : "Story Points Done",
+                "value": "3200"
+            },
+            {
+                "name" : "Total Story Time",
+                "value": "4230"
+            },
+            {
+                "name" : "% Stories Done",
+                "value": "70.9%"
+            }
+        ] 
+    },
+    {
+        "id": 3,
+        "dot": "red",
+        "title": "On Velocity",
+        "info": [
+            {
+                "name" : "Average Velocity",
+                "value": "428.6"
+            },
+            {
+                "name" : "Required Velocity",
+                "value": "615.0"
+            }
+        ]
+    }
+]

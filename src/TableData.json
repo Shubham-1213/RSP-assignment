@@ -1,0 +1,128 @@
+[
+    {
+        "Page" : "Defect Arrival Rate",
+      "Pageviews": {
+        "Value": "872,337",
+        "percent": "15.82%"
+      },
+      "Unique_pageviews": {
+        "Value": "574,332",
+        "percent": "15.33%"
+      },
+      "Avg_time": "00:05:43",  
+      "Entrances": {
+        "Value": "802,873",
+        "percent": "16.75%"
+      },
+      "Exit": "25.96%",
+      "Page_value": {
+        "Value": "1,093",  
+        "percent": "5.11%"
+      }
+    },
+    {
+        "Page" : "Fixed Rate",
+        "Pageviews": {
+            "Value": "803,792",
+            "percent": "14.39%"
+        },
+        "Unique_pageviews": {
+            "Value": "456,792",
+            "percent": "13.93%"
+        },
+        "Avg_time": "00:05:24",
+        "Entrances": {
+            "Value": "793,982",
+            "percent": "15.64%" 
+        },
+        "Exit": "76.13%",
+        "Page_value": {
+            "Value": "6,792",  
+            "percent": "36.16%"
+        }
+    },
+    {
+        "Page" : "Cycle Time",
+        "Pageviews": {
+            "Value": "740,702",
+            "percent": "13.46%"
+        },
+        "Unique_pageviews": {
+            "Value": "405,860",
+            "percent": "13.25%"
+        },
+        "Avg_time": "00:04:36",
+        "Entrances": {
+            "Value": "684,873",
+            "percent": "14.33%"
+        },
+        "Exit": "41.54%",
+        "Page_value": {
+            "Value": "702", 
+            "percent": "3.47%"  
+        }
+    },
+    {
+        "Page" : "Lead Time",
+        "Pageviews": {
+            "Value": "676,659",
+            "percent": "10.29%"
+        },
+        "Unique_pageviews": {
+            "Value": "340,765",
+            "percent": "11.70%"
+        },
+        "Avg_time": "00:04:12",
+        "Entrances": {
+            "Value": "638,982",
+            "percent": "13.02%"
+        },
+        "Exit": "46.42%",
+        "Page_value": {
+            "Value": "2,659", 
+            "percent": "11.64%"  
+        }
+    },
+    {
+        "Page" : "New Features",
+        "Pageviews": {
+            "Value": "508,837",
+            "percent": "7.74%"
+        },
+        "Unique_pageviews": {
+            "Value": "317,543",
+            "percent": "10.66%"
+        },
+        "Avg_time": "00:04:11",
+        "Entrances": {
+            "Value": "555,982",
+            "percent": "10.44%"
+        },
+        "Exit": "27.40%",
+        "Page_value": {
+            "Value": "4,508", 
+            "percent": "23.43%"  
+        }
+    },
+    {
+        "Page" : "Ready Features",
+        "Pageviews": {
+            "Value": "495,938",
+            "percent": "7.38%"
+        },
+        "Unique_pageviews": {
+            "Value": "310,554",
+            "percent": "110.58%"
+        },
+        "Avg_time": "00:02:56",
+        "Entrances": {
+            "Value": "297,303",
+            "percent": "6.07%"
+        },
+        "Exit": "28.89%",
+        "Page_value": {
+            "Value": "495", 
+            "percent": "7.38%"
+        }
+    }
+]
